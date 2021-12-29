@@ -15,6 +15,7 @@ public class blog1 {
 	public static final String WEB_DRIVER_ID = "webdriver.chrome.driver"; // 드라이버 ID
 	public static final String WEB_DRIVER_PATH = "C:\\Java\\tools\\chromedriver_win32\\chromedriver.exe"; // 드라이버 경로
 	
+	
 	public static void main(String[] args) throws InterruptedException {
 		
 		// 드라이버 설정
