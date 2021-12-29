@@ -9,6 +9,7 @@ public class CrawlingDAO {
 
 	static void Crawling(ArrayList<SongVO> sl) {
 		
+		
 		String url = "https://www.melon.com/chart/index.htm";
 		// JSoup 라이브러리 jar파일을 등록해야함
 		Document doc = null;
