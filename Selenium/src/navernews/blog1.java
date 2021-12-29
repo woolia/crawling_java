@@ -32,7 +32,6 @@ public class blog1 {
 			e.printStackTrace();
 		}
 		
-		
 		// 크롬 설정을 담은 객체 생성
 		ChromeOptions options = new ChromeOptions();
 		// 브라우저가 눈에 보이지 않고 내부적으로 돈다.
